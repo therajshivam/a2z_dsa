@@ -6,8 +6,6 @@ int main() {
     // endl, /n
 
     // DataTypes
-    
-
     // int, long, long long
     int x = 10;
     long x = 15;
