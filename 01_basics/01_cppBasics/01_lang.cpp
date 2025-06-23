@@ -5,9 +5,8 @@ int main() {
     // input-output => cin and cout
     // endl, /n
 
-
-
     // DataTypes
+    
 
     // int, long, long long
     int x = 10;
