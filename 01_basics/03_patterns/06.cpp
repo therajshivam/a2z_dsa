@@ -16,6 +16,5 @@ int main(){
     int n;
     cin >> n;
     print6(n);
-    
     return 0;
 }
