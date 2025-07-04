@@ -14,6 +14,6 @@ int sum(int a, int b){
 int main(){
     print();
     int s = sum (2, 5);
-
+    cout << s;
     return 0;
 }
