@@ -3,7 +3,7 @@ using namespace std;
 
 // void function : will not return anything
 void print(){
-    cout << "Hi" << cout;
+    cout << "Hi" << endl;
 }
 
 // return function : will return something
@@ -14,6 +14,6 @@ int sum(int a, int b){
 int main(){
     print();
     int s = sum (2, 5);
-    
+
     return 0;
 }
